@@ -1,11 +1,3 @@
-"""
-
-AStar search
-
-author: Ashwin Bose (@atb033)
-
-"""
-
 class AStar():
     def __init__(self, env):
         self.agent_dict = env.agent_dict
