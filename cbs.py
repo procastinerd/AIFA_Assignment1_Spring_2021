@@ -1,10 +1,3 @@
-"""
-
-Python implementation of Conflict-based search
-
-author: Ashwin Bose (@atb033)
-
-"""
 import sys
 sys.path.insert(0, '../')
 import argparse
