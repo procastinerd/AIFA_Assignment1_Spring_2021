@@ -12,4 +12,4 @@ cd ./(path of folder in which required files are downloaded)
 python cbs.py 17by6.yaml output.yaml                 //declares if a solution(path for robots)is found or not.
 
 Visualize:
-python ../visualize 17by6.yaml output.yaml           //displays a top view live grid of and obstacles agents traversing.
+python ../visualize 17by6.yaml output.yaml           //displays a top view live grid of obstacles and agents traversing.
