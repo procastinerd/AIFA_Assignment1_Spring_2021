@@ -1,0 +1,15 @@
+INTRODUCTION:
+This repository contains multi agent path finding code executed in python, using A* and Confict Based Search methods.
+The method requires user to provide source and destination points of agents/robots(in the .yaml file).
+
+REQUIREMENTS:
+- python installed on the system.
+- yaml, matplotlib, scipy, numpy, libraries to be installed on the terminal.
+
+EXECUTION:
+Run:
+cd ./algofiles
+python cbs.py 17by6.yaml output.yaml //declares if a solution(path for robots)is found or not.
+
+Visualize:
+python ../visualize 17by6.yaml output.yaml //displays a top view live grid of and obstacles agents traversing.
