@@ -1,7 +1,5 @@
-#!/usr/bin/env python3
 import yaml
 import matplotlib
-# matplotlib.use("Agg")
 from matplotlib.patches import Circle, Rectangle, Arrow
 from matplotlib.collections import PatchCollection
 import matplotlib.pyplot as plt
